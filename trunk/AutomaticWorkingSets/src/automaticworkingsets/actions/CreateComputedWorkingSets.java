@@ -67,7 +67,7 @@ public class CreateComputedWorkingSets implements
 						return element.toString().replaceAll("_", " ")
 								+ " Projects";
 					}
-				}, "Select Project Types for Computed 	Working Set Creation");
+				}, "Select Project Types for Computed Working Set Creation");
 		workingSetsToCreate.setInitialSelections(PROJECT_TYPES.values());
 		workingSetsToCreate.setTitle("Select Project Types");
 		if (workingSetsToCreate.open() != Window.OK) {
