@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="AutomaticWorkingSetsFeature"
+      label="Automatic Working Sets Feature"
+      version="1.0.0"
+      provider-name="Sandip V. Chitale">
+
+   <description url="http://code.google.com/p/automaticallycreateworkingsets/">
+      Automatic Working Sets Feature
+   </description>
+
+   <copyright url="http://code.google.com/p/automaticallycreateworkingsets/">
+      Sandip V. Chitale
+   </copyright>
+
+   <plugin
+         id="AutomaticWorkingSets"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

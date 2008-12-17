@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Automatic Working Sets Plug-in
+Bundle-SymbolicName: AutomaticWorkingSets;singleton:=true
+Bundle-Version: 1.0.1
+Bundle-Activator: automaticworkingsets.Activator
+Bundle-Vendor: Sandip V. Chitale
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.team.core
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
